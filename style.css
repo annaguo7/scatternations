@@ -1,0 +1,9 @@
+.tooltip{
+    position: fixed;
+    display: none;
+}
+
+
+h1,p,.chart{
+    padding: 5px;
+}
